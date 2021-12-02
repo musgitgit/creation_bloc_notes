@@ -1,5 +1,5 @@
 # creation_bloc_notes
-Le but de notre projet est de créer un éditeur de texte avec python 
+Le but de ce projet est de créer un éditeur de texte avec python 
 en utilisant la bibliothèque tkinter.
 I- La bibliothèque graphique Tkinter : est la bibliothèque d’interface 
 graphique standard pour Python. Python, lorsqu’il est combiné à 
